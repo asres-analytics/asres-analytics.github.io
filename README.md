@@ -5,12 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://ethiocodingroom.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=github" />
+  <a href="https://www.upwork.com/freelancers/~013847c2b7252ddb3f" target="_blank">
+    <img src="https://img.shields.io/badge/Upwork-Freelancer-14A800?style=for-the-badge&logo=upwork&logoColor=white" />
   </a>
-  <a href="mailto:asregam@gmail.com">
-    <img src="https://img.shields.io/badge/Contact-Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+
 </p>
 
 ---

@@ -3,7 +3,19 @@ import { motion, AnimatePresence } from 'framer-motion';
 import { fadeInUp, revealViewport } from '../animations';
 import { useLanguage } from '../i18n';
 
-const rawCerts = [
+const rawCerts = 
+
+[
+  {
+  src: '/power_learn_project_certificate.png',
+  alt: 'Power Learn Project Certificate of Achievement',
+  issuer: 'Power Learn Project (PLP)',
+  focus: 'Software development fundamentals including Python programming, database design and SQL, web development, startup building, and software engineering essentials.',
+  impact: 'Completed a 16-week intensive program gaining practical skills in full-stack development, problem-solving, and building real-world software projects.',
+  verifyUrl: 'https://academy.powerlearnprojectafrica.org/verify-cert/a17c79c5-c203-47fd-921d-14fe0aff3f89',
+  earnedLabel: '16-week Program Completion',
+  earnedSort: 202500,
+},
     {
     src: '/conflict_resolution_webinar.png',
     alt: 'Conflict Resolution Webinar',

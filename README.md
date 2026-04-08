@@ -5,46 +5,72 @@
 </p>
 
 <p align="center">
-  <a href="https://www.upwork.com/freelancers/~013847c2b7252ddb3f" target="_blank">
+  <a href="https://www.upwork.com/freelancers/~013847c2b7252ddb3f?mp_source=share" target="_blank">
     <img src="https://img.shields.io/badge/Upwork-Freelancer-14A800?style=for-the-badge&logo=upwork&logoColor=white" />
   </a>
 
 </p>
 
----
+## 👨‍💼 About Me
 
-# 👨‍💼 About Me (For Hiring Managers)
+I am a **Data Analyst and Business Intelligence Developer** with expertise in transforming complex datasets into actionable insights that support data-driven decision-making and enhance business performance.
 
-I am a **Data Analyst & Business Intelligence Developer** with a strong track record of turning raw, complex datasets into **clear, actionable insights** that drive business performance.
+Core competencies include data modeling, ETL pipeline development, KPI design and performance tracking, and the development of interactive dashboards. I am experienced in data cleaning, transformation, and validation to ensure accuracy, consistency, and reliability.
 
-My work focuses on:
-✅ Data modeling & pipeline automation  
-✅ KPI development for business monitoring  
-✅ Interactive dashboards for decision-makers  
-✅ Data cleaning, transformation, and ETL workflows  
-
-I combine **technical expertise** with **business understanding** to ensure insights are not only accurate — but meaningful, strategic, and aligned with organizational goals.
+I apply a structured, analytical approach combined with business acumen to deliver insights that are strategic, measurable, and aligned with organizational objectives.
 
 ---
-
 # 🚀 Core Skills & Technologies
 
-### 🔹 Programming & Data
-- Python • Pandas • NumPy  
-- SQL • PostgreSQL • MySQL
+## 💻 Programming & Data
+- 🐍 **Python** (Pandas, NumPy)  
+- 🗄️ **SQL** (PostgreSQL, MySQL)  
+- 📊 **Data Analysis & Statistical Computing**  
 
-### 🔹 Business Intelligence
-- Power BI (DAX, Data Modeling, Visual Design)  
-- Tableau (Storytelling, Calculations)
+---
 
-### 🔹 Data Engineering / ETL
-- Data Pipelines  
-- Automation  
-- Data Cleaning & Transformation  
+## 🌐 Data Analytics & Web Data
+- 🕸️ **Web Scraping** *(Ethical & Structured)*  
+- 🔍 **Public Data Collection & Research**  
+- 🧹 **Data Cleaning & Validation**  
+- 📈 **Data Accuracy & De-duplication**  
 
-### 🔹 Tools
-- Excel • Git • VS Code • Jupyter Notebook  
+---
 
+## 📊 Business Intelligence & Visualization
+- 📊 **Power BI** *(DAX, Data Modeling, Visual Design)*  
+- 📉 **Tableau** *(Data Storytelling, Calculations)*  
+- 📋 **KPI Tracking & Interactive Dashboards**  
+
+---
+
+## ⚙️ Data Engineering & ETL
+- 🔄 **Data Pipeline Development**  
+- ⚙️ **Automation & Workflow Scheduling**  
+- 🧠 **Data Transformation (ETL / ELT)**  
+- ✅ **Data Quality Assurance & Monitoring**  
+
+---
+
+## 🗄️ Databases & Data Modeling
+- 🧱 **Relational Database Design**  
+- 🗂️ **Dimensional Modeling (Star & Snowflake)**  
+- 🏗️ **Data Warehousing Concepts**  
+
+---
+
+## 🤖 Automation & Reporting
+- 🤖 **Python Automation Scripts**  
+- 📑 **Automated Reporting Solutions**  
+- 🧪 **Error Handling & Logging Systems**  
+
+---
+
+## 🛠️ Tools & Environment
+- 📊 **Microsoft Excel (Advanced)**  
+- 🌱 **Git & GitHub (Version Control)**  
+- 🧠 **VS Code (Development Environment)**  
+- 📓 **Jupyter Notebook (Data Exploration)**  
 ---
 
 # 🛠️ Skills Badges

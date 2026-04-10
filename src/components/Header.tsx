@@ -16,7 +16,6 @@ export const Header: React.FC<{ onToggleDark: () => void }> = ({ onToggleDark })
     { id: 'skills', en: 'Skills', am: 'ክህሎቶች' },
     { id: 'projects', en: 'Projects', am: 'ፕሮጀክቶች' },
     { id: 'certifications', en: 'Certifications', am: 'ሰርቲፊኬቶች' },
-    { id: 'blog', en: 'Blog', am: 'ብሎግ' },
     { id: 'contact', en: 'Contact', am: 'አግኙኝ' },
   ];
 

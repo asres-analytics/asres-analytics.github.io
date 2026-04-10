@@ -67,6 +67,18 @@ const certificateGallery = [
   },
 ];
 
+const projectAchievement = {
+  title: 'Real Estate Price Scraper',
+  description: 'A practical automation project focused on collecting real estate listings for pricing and market analysis.',
+  link: 'https://github.com/ethioCodingRoom',
+};
+
+const futureProjects = [
+  'Additional scraping and automation pipelines for market intelligence',
+  'More dashboard and reporting projects with clearer README walkthroughs',
+  'Reusable analytics templates that show process, results, and code structure',
+];
+
 export const PersonalCertifications: React.FC = () => (
   <section id="certifications" className="py-20">
     <div className="mx-auto max-w-6xl px-6">
@@ -100,6 +112,48 @@ export const PersonalCertifications: React.FC = () => (
             <p className="mt-2 text-xs font-bold uppercase tracking-[0.14em] text-[var(--site-muted)]">{stat.label}</p>
           </motion.div>
         ))}
+      </motion.div>
+
+      <motion.div
+        variants={fadeInUp}
+        initial="hidden"
+        whileInView="visible"
+        viewport={revealViewport}
+        className="mb-10 rounded-3xl border border-[var(--site-border)] bg-[var(--site-panel)] p-6 shadow-lg backdrop-blur"
+      >
+        <p className="text-xs font-bold uppercase tracking-[0.12em] text-orange-600 dark:text-orange-300">
+          Project Achievement
+        </p>
+        <h3 className="mt-2 text-2xl font-extrabold text-[var(--site-text)]">{projectAchievement.title}</h3>
+        <p className="mt-2 max-w-3xl text-sm leading-relaxed text-[var(--site-muted)]">
+          {projectAchievement.description}
+        </p>
+        <a
+          href={projectAchievement.link}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="mt-4 inline-flex rounded-xl border border-cyan-500/30 px-5 py-2.5 text-sm font-bold text-cyan-700 transition hover:border-cyan-500/60 hover:bg-cyan-500/10 dark:text-cyan-300"
+        >
+          Open GitHub Repositories
+        </a>
+      </motion.div>
+
+      <motion.div
+        variants={fadeInUp}
+        initial="hidden"
+        whileInView="visible"
+        viewport={revealViewport}
+        className="mb-12 rounded-3xl border border-orange-500/20 bg-gradient-to-r from-orange-500/10 to-cyan-500/10 p-6 shadow-lg"
+      >
+        <p className="text-xs font-bold uppercase tracking-[0.12em] text-orange-600 dark:text-orange-300">
+          Future Projects
+        </p>
+        <h3 className="mt-2 text-2xl font-extrabold text-[var(--site-text)]">What I plan to build next</h3>
+        <ul className="mt-4 space-y-2 text-sm leading-relaxed text-[var(--site-muted)]">
+          {futureProjects.map((item) => (
+            <li key={item}>- {item}</li>
+          ))}
+        </ul>
       </motion.div>
 
       <motion.div

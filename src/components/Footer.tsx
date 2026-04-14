@@ -58,7 +58,7 @@ export const Footer = () => {
               : 'Subscribe and follow me for tutorials, project walkthroughs, and practical data analytics content.'}
           </p>
           <div className="mb-6 flex justify-center gap-3 text-2xl md:justify-start">
-            <a href="https://www.youtube.com/c/ethioCodingRoom" target="_blank" rel="noreferrer" aria-label="YouTube" className="rounded-lg p-2"><FaYoutube className="hover:text-red-600 transition-colors" /></a>
+            <a href="https://www.youtube.com/@ethioCodingRoom" target="_blank" rel="noreferrer" aria-label="YouTube" className="rounded-lg p-2"><FaYoutube className="hover:text-red-600 transition-colors" /></a>
             <a href="https://www.tiktok.com/@ethio.coding.room" target="_blank" rel="noreferrer" aria-label="TikTok" className="rounded-lg p-2"><FaTiktok className="hover:text-pink-500 transition-colors" /></a>
           </div>
           <p className="mb-2 text-xs text-slate-300/70">{isAm ? 'የተገነባበት:' : 'Built with:'}</p>

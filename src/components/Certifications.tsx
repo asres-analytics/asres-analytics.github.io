@@ -6,6 +6,41 @@ import { useLanguage } from '../i18n';
 const rawCerts = 
 
 [
+
+  {
+  src: '/hyperskill_introduction_to_git_certificate.png',
+  alt: 'Hyperskill Introduction to Git Certificate of Completion',
+  issuer: 'Hyperskill (JetBrains Academy)',
+  focus: 'Version control fundamentals using Git, including repositories, commits, branches, merges, conflict resolution, and working with Git in real development workflows.',
+  impact: 'Completed 4 practical projects and 38 topics, gaining hands-on experience with Git version control essential for collaborative software development and professional workflows.',
+  verifyUrl: 'https://hyperskill.org/certificates/ae158067-db46-4fc0-9ccf-48a4711ee5d2.pdf',
+  earnedLabel: 'June 16, 2025',
+  earnedSort: 202506,
+},
+{
+  src: '/hyperskill_introduction_to_sql_certificate.png',
+  alt: 'Hyperskill Introduction to SQL Certificate of Completion',
+  issuer: 'Hyperskill (JetBrains Academy)',
+  focus: 'Fundamentals of SQL including database concepts, querying data with SELECT statements, filtering and sorting results, aggregations, joins, subqueries, and relational database basics.',
+  impact: 'Completed a structured SQL course covering 27 topics, gaining practical skills in working with relational databases and writing efficient SQL queries for real-world applications.',
+  verifyUrl: 'https://hyperskill.org/certificates/c54bc3ae-e5aa-4245-87a8-b238d6fe8edb.pdf',
+  earnedLabel: 'June 31, 2025',
+  earnedSort: 202507,
+},
+
+
+{
+  src: '/hyperskill_java_backend_developer_certificate.png',
+  alt: 'Hyperskill Java Backend Developer Certificate of Participation',
+  issuer: 'Hyperskill',
+  focus: 'Java backend development including Java and OOP basics, advanced Java concepts, Git and GitHub workflows, algorithms, SQL and JDBC, Spring Boot fundamentals and advanced features, Bash scripting, and software engineering best practices.',
+  impact: 'Completed 39 hands-on projects over an extended program, gaining practical experience in building backend applications, working with databases, using Spring Boot, and applying modern development workflows and tools.',
+  verifyUrl: 'https://bootcamps-certificates-generator.replit.app/certs/java_backend_developer/completed/2edd2d1c-5cbb-4e8a-b7db-ef197bf84c8b.pdf',
+  earnedLabel: 'Java Backend Developer Program',
+  earnedSort: 202510,
+},
+
+
   {
   src: '/power_learn_project_certificate.png',
   alt: 'Power Learn Project Certificate of Achievement',

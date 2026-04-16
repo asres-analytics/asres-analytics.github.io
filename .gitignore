@@ -30,4 +30,4 @@ pnpm-debug.log*
 *.swp
 
 # Miscellaneous
-asres-site/
+asres-site/asres-site@0.0.0

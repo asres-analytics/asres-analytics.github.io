@@ -35,7 +35,7 @@ export const Footer = () => {
               : 'See my achievements, certifications, and coding accomplishments across learning and challenge platforms.'}
           </p>
           <div className="flex flex-wrap justify-center gap-2 text-2xl md:justify-start">
-            <a href="https://github.com/ethioCodingRoom" target="_blank" rel="noreferrer" aria-label="GitHub" title="GitHub" className="rounded-lg p-2"><FaGithub className="hover:text-gray-400 transition-colors" /></a>
+            <a href="https://github.com/asres-analytics" target="_blank" rel="noreferrer" aria-label="GitHub" title="GitHub" className="rounded-lg p-2"><FaGithub className="hover:text-gray-400 transition-colors" /></a>
             <a href="https://www.hackerrank.com/profile/asresgamu" target="_blank" rel="noreferrer" aria-label="HackerRank" title="HackerRank" className="rounded-lg p-2"><SiHackerrank className="hover:text-green-500 transition-colors" /></a>
             <a href="https://www.coursera.org/user/ethioCodingRoom" target="_blank" rel="noreferrer" aria-label="Coursera" title="Coursera" className="rounded-lg p-2"><SiCoursera className="hover:text-blue-500 transition-colors" /></a>
             <a href="https://www.datacamp.com/portfolio/asresgamu" target="_blank" rel="noreferrer" aria-label="DataCamp" title="DataCamp" className="rounded-lg p-2"><SiDatacamp className="hover:text-yellow-500 transition-colors" /></a>
@@ -58,7 +58,7 @@ export const Footer = () => {
               : 'Subscribe and follow me for tutorials, project walkthroughs, and practical data analytics content.'}
           </p>
           <div className="mb-6 flex justify-center gap-3 text-2xl md:justify-start">
-            <a href="https://www.youtube.com/@ethioCodingRoom" target="_blank" rel="noreferrer" aria-label="YouTube" className="rounded-lg p-2"><FaYoutube className="hover:text-red-600 transition-colors" /></a>
+            <a href="https://www.youtube.com/@AsresAnalytics" target="_blank" rel="noreferrer" aria-label="YouTube" className="rounded-lg p-2"><FaYoutube className="hover:text-red-600 transition-colors" /></a>
             <a href="https://www.tiktok.com/@ethio.coding.room" target="_blank" rel="noreferrer" aria-label="TikTok" className="rounded-lg p-2"><FaTiktok className="hover:text-pink-500 transition-colors" /></a>
           </div>
           <p className="mb-2 text-xs text-slate-300/70">{isAm ? 'የተገነባበት:' : 'Built with:'}</p>

@@ -7,6 +7,18 @@ const rawCerts =
 
 [
 
+  { 
+  src: '/introduction_to_dax_in_power_bi.png',
+  alt: 'Introduction to DAX in Power BI Statement of Accomplishment Badge',
+  issuer: 'DataCamp',
+  focus: 'Learned the fundamentals of DAX (Data Analysis Expressions) in Power BI, including calculated columns, measures, tables, context evaluation, iterator functions, variables, and time-intelligence functions.',
+  impact: 'Completed hands-on exercises and practical datasets focused on building dynamic calculations, analyzing business data, and creating efficient Power BI reports using DAX best practices.',
+  verifyUrl: 'https://www.datacamp.com/statement-of-accomplishment/course/72acfcce22b2355e7f09698723a4e384e59ec374?raw=1',
+  earnedLabel: 'May 15, 2026',
+  earnedSort: 202605,
+
+  },
+
   {
   src: '/hyperskill_introduction_to_git_certificate.png',
   alt: 'Hyperskill Introduction to Git Certificate of Completion',

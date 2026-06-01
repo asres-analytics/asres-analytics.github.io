@@ -7,6 +7,16 @@ const rawCerts =
 
 [
 
+  {
+  src: '/aws_ai_practitioner_challenge.png',
+  alt: 'AWS AI Practitioner Challenge Certificate',
+  issuer: 'AWS & Udacity',
+  focus: 'Learned foundational Artificial Intelligence and Machine Learning concepts, Generative AI technologies, natural language processing, computer vision, AI use cases, and AWS AI/ML services and tools.',
+  impact: 'Completed hands-on projects using AWS PartyRock, built AI-powered applications, explored prompt engineering, analyzed data with AI, and gained practical experience applying AI/ML solutions to real-world business scenarios.',
+  verifyUrl: 'https://www.udacity.com/certificate/e/acc6e69a-27b9-11f1-9f8a-f3b64d61f7d2',
+  earnedLabel: 'June 1, 2026',
+  earnedSort: 202606,
+},
   { 
   src: '/introduction_to_dax_in_power_bi.png',
   alt: 'Introduction to DAX in Power BI Statement of Accomplishment Badge',

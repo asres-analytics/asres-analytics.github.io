@@ -14,7 +14,7 @@ const rawCerts =
   impact: 'Applied data analysis techniques to marketing data, identified data gaps, evaluated strengths and weaknesses of datasets, and built foundational skills in data storytelling, data management, and data-driven decision making.',
   verifyUrl: 'https://coursera.org/share/4ca14acff57149657d55befcb2ccfa51',
   earnedLabel: 'June 4, 2026',
-  earnedSort: 202600,
+  earnedSort: 202606,
 },
   {
   src: '/aws_ai_practitioner_challenge.png',

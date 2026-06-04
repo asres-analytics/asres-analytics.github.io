@@ -13,7 +13,7 @@ const rawCerts =
   focus: 'Learned the OSEMN data analysis process, explored different data formats, understood data quality concepts, and developed skills in exploratory data analysis, data modeling, and key performance indicators (KPIs).',
   impact: 'Applied data analysis techniques to marketing data, identified data gaps, evaluated strengths and weaknesses of datasets, and built foundational skills in data storytelling, data management, and data-driven decision making.',
   verifyUrl: 'https://coursera.org/share/4ca14acff57149657d55befcb2ccfa51',
-  earnedLabel: '2026',
+  earnedLabel: 'June 4, 2026',
   earnedSort: 202600,
 },
   {

@@ -6,6 +6,17 @@ import { useLanguage } from '../i18n';
 const rawCerts = 
 
 [
+  {
+  src: '/ibm_what_is_data_science.png',
+  alt: 'IBM What is Data Science Certificate',
+  issuer: 'IBM & Coursera',
+  focus: 'Learned the fundamentals of data science, including its importance in today’s data-driven world, career pathways, and insights from experienced professionals on starting a journey in data science.',
+  impact: 'Developed foundational knowledge in data science concepts, data literacy, machine learning basics, big data, and data-driven decision-making, strengthening readiness for entry-level data science roles.',
+  verifyUrl: 'https://www.coursera.org/account/accomplishments/verify/1RFCXXPK53I9',
+  earnedLabel: 'June 12, 2026',
+  earnedSort: 202606,
+},
+
 {
   src: '/meta_introduction_to_data_analytics.png',
   alt: 'Meta Introduction to Data Analytics Certificate',

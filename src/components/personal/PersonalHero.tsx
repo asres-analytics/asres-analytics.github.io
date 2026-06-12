@@ -3,6 +3,7 @@ import { motion } from 'framer-motion';
 import { Typing } from '../Typing';
 import Reveal from '../Reveal';
 import { fadeInUp, staggerContainer } from '../../animations';
+import { publicUrl } from '../../utils/publicUrl';
 
 export const PersonalHero: React.FC = () => (
   <section id="hero" className="relative overflow-hidden py-16 sm:py-20">
@@ -72,12 +73,6 @@ export const PersonalHero: React.FC = () => (
           >
             View Case Studies
           </a>
-          <a
-            href="/academy.html"
-            className="rounded-xl border border-[var(--site-border)] bg-white/70 px-7 py-3 font-bold text-slate-900 dark:bg-slate-900/50 dark:text-slate-100"
-          >
-            Explore Academy Brand
-          </a>
         </motion.div>
       </div>
 
@@ -87,7 +82,7 @@ export const PersonalHero: React.FC = () => (
           <div className="absolute -bottom-5 -left-4 h-20 w-20 rounded-full bg-orange-400/25 blur-2xl" />
 
           <img
-            src="/Asres.jpg"
+            src={publicUrl('Asres.jpg')}
             alt="Asres Gamu Yelia"
             width={768}
             height={1024}

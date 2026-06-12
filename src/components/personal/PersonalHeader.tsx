@@ -64,13 +64,6 @@ export const PersonalHeader: React.FC<{ onToggleDark: () => void }> = ({ onToggl
             </a>
           ))}
 
-          <a
-            href="/academy.html"
-            className="rounded-xl border border-cyan-500/30 bg-cyan-500/10 px-3 py-2 text-sm font-bold text-cyan-700 hover:border-cyan-500/60 dark:text-cyan-300"
-          >
-            Academy Site
-          </a>
-
           <div className="hidden items-center gap-2 rounded-xl border border-[var(--site-border)] bg-white/60 px-3 py-1.5 dark:bg-slate-900/60 lg:flex">
             <span
               aria-hidden="true"
@@ -102,13 +95,6 @@ export const PersonalHeader: React.FC<{ onToggleDark: () => void }> = ({ onToggl
       {open && (
         <div className="border-t border-[var(--site-border)] bg-[var(--site-panel)] px-6 py-5 md:hidden">
           <div className="mb-4 flex flex-col gap-3">
-            <a
-              href="/academy.html"
-              onClick={() => setOpen(false)}
-              className="rounded-xl border border-cyan-500/30 bg-cyan-500/10 px-3 py-2 text-center text-sm font-bold text-cyan-700 dark:text-cyan-300"
-            >
-              Open Academy Site
-            </a>
             <div className="inline-flex items-center gap-2 rounded-xl border border-[var(--site-border)] bg-white/60 px-3 py-1.5 dark:bg-slate-900/60">
               <span
                 aria-hidden="true"

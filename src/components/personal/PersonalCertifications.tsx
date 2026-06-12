@@ -2,6 +2,7 @@ import React from 'react';
 import { motion } from 'framer-motion';
 import { FaAward, FaCodeBranch, FaGraduationCap, FaShieldAlt } from 'react-icons/fa';
 import { fadeInUp, revealViewport, staggerContainer } from '../../animations';
+import { publicUrl } from '../../utils/publicUrl';
 
 const achievementStats = [
   { label: 'Core Certifications', value: '4+' },
@@ -221,7 +222,7 @@ export const PersonalCertifications: React.FC = () => (
             >
               <div className="aspect-[4/3] border-b border-[var(--site-border)] bg-white/80 p-3 dark:bg-slate-950/50">
                 <img
-                  src={item.image}
+                    src={publicUrl(item.image)}
                   alt={item.title}
                   loading="lazy"
                   decoding="async"

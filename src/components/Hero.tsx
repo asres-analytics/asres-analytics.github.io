@@ -4,6 +4,7 @@ import { Typing } from './Typing';
 import Reveal from './Reveal';
 import { fadeInUp, staggerContainer } from '../animations';
 import { useLanguage } from '../i18n';
+import { publicUrl } from '../utils/publicUrl';
 
 export const Hero: React.FC = () => {
   const { language } = useLanguage();
@@ -106,7 +107,7 @@ export const Hero: React.FC = () => {
               <div className="absolute -bottom-6 -left-5 h-24 w-24 rounded-full bg-blue-500/25 blur-3xl" />
 
               <img
-                src="/Asres.jpg"
+                src={publicUrl('Asres.jpg')}
                 alt="Asres Gamu Yelia"
                 width={768}
                 height={1024}

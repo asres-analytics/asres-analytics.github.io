@@ -2,6 +2,7 @@ import React, { useCallback, useEffect, useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { fadeInUp, revealViewport } from '../animations';
 import { useLanguage } from '../i18n';
+import { publicUrl } from '../utils/publicUrl';
 
 const rawCerts = 
 
@@ -604,7 +605,7 @@ export const Certifications: React.FC = () => {
               <div className="mb-4 rounded-lg bg-gradient-to-br from-cyan-200 to-orange-200 p-2 shadow-md dark:from-cyan-900/60 dark:to-orange-900/50">
                 <div className="rounded-sm bg-white p-1 dark:bg-slate-950">
                   <img
-                    src={c.src}
+                    src={publicUrl(c.src)}
                     alt={c.alt}
                     loading="lazy"
                     decoding="async"
@@ -672,7 +673,7 @@ export const Certifications: React.FC = () => {
                 <div className="flex min-h-0 items-center justify-center border-b border-white/10 p-2 lg:border-b-0 lg:border-r lg:p-4">
                   <div className="flex h-full w-full items-center justify-center rounded-2xl bg-white p-2 shadow-xl">
                     <img
-                      src={selectedCert.src}
+                      src={publicUrl(selectedCert.src)}
                       alt={selectedCert.alt}
                       decoding="async"
                       loading="lazy"

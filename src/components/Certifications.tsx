@@ -7,6 +7,17 @@ import { publicUrl } from '../utils/publicUrl';
 const rawCerts = 
 
 [
+{
+  src: '/ibm_introduction_to_data_analytics.png',
+  alt: 'IBM Introduction to Data Analytics Certificate',
+  issuer: 'IBM & Coursera',
+  focus: 'Learned the fundamentals of data analytics, including understanding the data analytics process, key industry roles, and different types of data structures, formats, and sources.',
+  impact: 'Gained practical knowledge of collecting, wrangling, mining, and visualizing data, along with exposure to tools and concepts such as data visualization, statistical analysis, Apache Hadoop, and data management, strengthening readiness for entry-level data analytics roles.',
+
+  earnedLabel: 'June 2026',
+  earnedSort: 202606
+},
+
   {
   src: '/ibm_what_is_data_science.png',
   alt: 'IBM What is Data Science Certificate',

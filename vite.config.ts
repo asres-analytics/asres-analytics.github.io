@@ -4,7 +4,7 @@ import tailwind from '@tailwindcss/vite'
 
 export default defineConfig({
   plugins: [react(), tailwind()],
-  base: '/asres-analytics.github.io/', // ✅ FIXED
+  base: '/', // 
   server: {
     port: 5173,
   },

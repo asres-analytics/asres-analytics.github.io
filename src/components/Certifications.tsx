@@ -102,7 +102,7 @@ const rawCerts =
   focus: 'Java backend development including Java and OOP basics, advanced Java concepts, Git and GitHub workflows, algorithms, SQL and JDBC, Spring Boot fundamentals and advanced features, Bash scripting, and software engineering best practices.',
   impact: 'Completed 39 hands-on projects over an extended program, gaining practical experience in building backend applications, working with databases, using Spring Boot, and applying modern development workflows and tools.',
   verifyUrl: 'https://bootcamps-certificates-generator.replit.app/certs/java_backend_developer/completed/2edd2d1c-5cbb-4e8a-b7db-ef197bf84c8b.pdf',
-  earnedLabel: 'Java Backend Developer Program',
+  earnedLabel: 'August 10, 2025',
   earnedSort: 202510,
 },
 

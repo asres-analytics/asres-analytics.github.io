@@ -7,6 +7,18 @@ import { publicUrl } from '../utils/publicUrl';
 const rawCerts = 
 
 [
+  {
+  src: '/excel_basics_for_data_analysis.png',
+  alt: 'Excel Basics for Data Analysis Certificate',
+  issuer: 'IBM & Coursera',
+  focus: 'Learned the fundamentals of Excel for data analysis, including data entry, spreadsheet navigation, formulas, data cleaning techniques, and the use of lookup functions, sorting, filtering, and PivotTables.',
+  impact: 'Gained hands-on experience in analyzing and transforming data using Excel, improving skills in data manipulation, data quality, and visualization, and building a strong foundation for data analytics tasks and real-world applications.',
+
+  earnedLabel: 'June 20, 2026',
+  earnedSort: 20260620,
+
+  credentialURL: 'https://www.coursera.org/account/accomplishments/verify/8CF7YINYKS8L'
+},
 {
   src: '/ibm_introduction_to_data_analytics.png',
   alt: 'IBM Introduction to Data Analytics Certificate',
@@ -14,8 +26,8 @@ const rawCerts =
   focus: 'Learned the fundamentals of data analytics, including understanding the data analytics process, key industry roles, and different types of data structures, formats, and sources.',
   impact: 'Gained practical knowledge of collecting, wrangling, mining, and visualizing data, along with exposure to tools and concepts such as data visualization, statistical analysis, Apache Hadoop, and data management, strengthening readiness for entry-level data analytics roles.',
 
-  earnedLabel: 'June 2026',
-  earnedSort: 202606
+  earnedLabel: 'June 12, 2026',
+  earnedSort: 20260612
 },
 
   {
@@ -26,7 +38,7 @@ const rawCerts =
   impact: 'Developed foundational knowledge in data science concepts, data literacy, machine learning basics, big data, and data-driven decision-making, strengthening readiness for entry-level data science roles.',
   verifyUrl: 'https://www.coursera.org/account/accomplishments/verify/1RFCXXPK53I9',
   earnedLabel: 'June 12, 2026',
-  earnedSort: 202606,
+  earnedSort: 20260612,
 },
 
 {
@@ -37,7 +49,7 @@ const rawCerts =
   impact: 'Applied data analysis techniques to marketing data, identified data gaps, evaluated strengths and weaknesses of datasets, and built foundational skills in data storytelling, data management, and data-driven decision making.',
   verifyUrl: 'https://coursera.org/share/4ca14acff57149657d55befcb2ccfa51',
   earnedLabel: 'June 4, 2026',
-  earnedSort: 202606,
+  earnedSort: 20260604,
 },
   {
   src: '/aws_ai_practitioner_challenge.png',
@@ -47,7 +59,7 @@ const rawCerts =
   impact: 'Completed hands-on projects using AWS PartyRock, built AI-powered applications, explored prompt engineering, analyzed data with AI, and gained practical experience applying AI/ML solutions to real-world business scenarios.',
   verifyUrl: 'https://www.udacity.com/certificate/e/acc6e69a-27b9-11f1-9f8a-f3b64d61f7d2',
   earnedLabel: 'June 1, 2026',
-  earnedSort: 202606,
+  earnedSort: 20260601,
 },
   { 
   src: '/introduction_to_dax_in_power_bi.png',
@@ -57,7 +69,7 @@ const rawCerts =
   impact: 'Completed hands-on exercises and practical datasets focused on building dynamic calculations, analyzing business data, and creating efficient Power BI reports using DAX best practices.',
   verifyUrl: 'https://www.datacamp.com/statement-of-accomplishment/course/72acfcce22b2355e7f09698723a4e384e59ec374?raw=1',
   earnedLabel: 'May 15, 2026',
-  earnedSort: 202605,
+  earnedSort: 20260515,
 
   },
 
@@ -69,7 +81,7 @@ const rawCerts =
   impact: 'Completed 4 practical projects and 38 topics, gaining hands-on experience with Git version control essential for collaborative software development and professional workflows.',
   verifyUrl: 'https://hyperskill.org/certificates/ae158067-db46-4fc0-9ccf-48a4711ee5d2.pdf',
   earnedLabel: 'June 16, 2025',
-  earnedSort: 202506,
+  earnedSort: 20250616,
 },
 {
   src: '/hyperskill_introduction_to_sql_certificate.png',
@@ -79,7 +91,7 @@ const rawCerts =
   impact: 'Completed a structured SQL course covering 27 topics, gaining practical skills in working with relational databases and writing efficient SQL queries for real-world applications.',
   verifyUrl: 'https://hyperskill.org/certificates/c54bc3ae-e5aa-4245-87a8-b238d6fe8edb.pdf',
   earnedLabel: 'June 31, 2025',
-  earnedSort: 202507,
+  earnedSort: 20250631,
 },
 
 
@@ -112,7 +124,7 @@ const rawCerts =
     impact: 'Gained practical skills in conflict resolution, including effective communication, active listening, and structured approaches to de-escalate and resolve workplace conflicts.',
     verifyUrl: 'https://co-curricular-events.uopeople.edu/credentials/770326e8-826e-4b47-95ff-69af6c7bb3b7',
     earnedLabel: 'March 11, 2026',
-    earnedSort: 202603,
+    earnedSort: 20260311,
   },
 
   { src: '/data_analysis_in_powerbi_with_chatgpt_365_data_science.png',
@@ -122,7 +134,7 @@ const rawCerts =
     impact: 'Mastered AI-driven workflows to accelerate DAX development, automate complex data cleaning, and generate suggested visualizations that drive faster, data-driven organizational decisions.',
     verifyUrl: 'https://learn.365datascience.com/c/ba6ef2ca68/',
     earnedLabel: 'March 21, 2026',
-    earnedSort: 202603,
+    earnedSort: 20260321,
 },
 {
     src: '/accelerate_your_job_search_with_ai_google.png',
@@ -132,7 +144,7 @@ const rawCerts =
     impact: 'Mastered AI-driven workflows for resume optimization, skill mapping, and interview preparation with a 100% grade proficiency.',
     verifyUrl: 'https://www.coursera.org/account/accomplishments/verify/YYFFDEXWRHO9',
     earnedLabel: 'December 31, 2025',
-    earnedSort: 202512,
+    earnedSort: 20251231,
 },
 {
     src: '/introduction_to_backend_development_meta.png',
@@ -142,7 +154,7 @@ const rawCerts =
     impact: 'Gained foundational skills in web styling and UI frameworks, achieving a 100% grade to better support full-stack data integration projects.',
     verifyUrl: 'https://www.coursera.org/account/accomplishments/verify/SEP9ER2T0PYV',
     earnedLabel: 'January 29, 2025',
-    earnedSort: 202501,
+    earnedSort: 20250129,
 },
 
   
@@ -154,7 +166,7 @@ const rawCerts =
     impact: 'Strengthened my ability to create interactive visual stories and communicate insights more clearly using Tableau.',
     verifyUrl: 'https://courses.analyticsvidhya.com/certificates/xevjpje7cy',
     earnedLabel: 'March 15, 2026',
-    earnedSort: 202603,
+    earnedSort: 20260315,
   },
   {
     src: '/introduction_to_sql_simplilearn.png',
@@ -164,7 +176,7 @@ const rawCerts =
     impact: 'Strengthened my ability to extract, organize, and analyze structured data using core SQL concepts.',
     verifyUrl: 'https://simpli-web.app.link/e/uRJPcomsw1b',
     earnedLabel: 'August 30, 2022',
-    earnedSort: 202208,
+    earnedSort: 20220830,
   },
   {
     src: '/python_for_beginners_simplilearn.png',
@@ -174,7 +186,7 @@ const rawCerts =
     impact: 'Built a stronger foundation in Python programming that supports my analytics, automation, and data project work.',
     verifyUrl: 'https://simpli-web.app.link/e/bcY2Nytsw1b',
     earnedLabel: 'March 02, 2022',
-    earnedSort: 202203,
+    earnedSort: 20220302,
   },
   {
     src: '/excel_for_beginners_great_learning.png',
@@ -183,7 +195,7 @@ const rawCerts =
     focus: 'Spreadsheet foundations including formulas, tabular analysis, and practical Excel workflows for beginners.',
     impact: 'Improved my ability to structure, clean, and analyze data efficiently using Excel for reporting and decision support.',
     earnedLabel: 'November 20, 2021',
-    earnedSort: 202111,
+    earnedSort: 20211120,
   },
   {
     src: '/cybersecurity_basics_protecting_your_data_in_the_digital_age.png',
@@ -193,7 +205,7 @@ const rawCerts =
     impact: 'Gained practical skills in cybersecurity awareness, threat identification, data protection strategies, secure use of digital tools, and personal/professional data security.',
     verifyUrl: 'https://co-curricular-events.uopeople.edu/credentials/c697ade6-ee03-4741-8809-0c702a4abcea',
     earnedLabel: 'February 18, 2026',
-    earnedSort: 202602,
+    earnedSort: 20260218,
   },
  {
     src: '/ask_questions_to_make_data_driven_decisions.png',
@@ -203,7 +215,7 @@ const rawCerts =
     impact: 'Mastered the problem-solving roadmap to translate vague business requests into measurable KPIs and structured data tasks, ensuring analysis aligns with organizational decision-making and stakeholder expectations.',
     verifyUrl: 'https://www.coursera.org/account/accomplishments/verify/G17RDUGJ6TF1',
     earnedLabel: 'October 22, 2025',
-    earnedSort: 202510,
+    earnedSort: 20251022,
 },
   {
     src: '/data_literacy_professional_datacamp.png',
@@ -213,7 +225,7 @@ const rawCerts =
     impact: 'Improved how I communicate insights clearly to both technical and non-technical stakeholders.',
     verifyUrl: 'https://www.datacamp.com/completed/statement-of-accomplishment/track/8b227dfc851fde0efa432cc00d5ec5150164dd42',
     earnedLabel: 'July 03, 2025',
-    earnedSort: 202507,
+    earnedSort: 20250703,
   },
   {
     src: '/github_foundations_datacamp.png',
@@ -223,7 +235,7 @@ const rawCerts =
     impact: 'Built strong collaboration habits for version control, pull requests, and team-based delivery.',
     verifyUrl: 'https://www.datacamp.com/completed/statement-of-accomplishment/track/847347fb18ac3e482cdbe67ee9203b27eb17bead',
     earnedLabel: 'April 08, 2025',
-    earnedSort: 202504,
+    earnedSort: 20250408,
   },
 
   {
@@ -234,7 +246,7 @@ const rawCerts =
   impact: 'Developed practical skills in building interactive dashboards, analyzing datasets, and applying data storytelling best practices using Tableau.',
   verifyUrl: 'https://www.datacamp.com/completed/statement-of-accomplishment/course/c2ba575e0331042f5fd7304f91471a0605e8476e',
   earnedLabel: 'Mar 01, 2026',
-  earnedSort: 202603,
+  earnedSort: 20260301,
 },
   {
     src: '/git_fundamentals_datacamp.png',
@@ -244,7 +256,7 @@ const rawCerts =
     impact: 'Improved my day-to-day code management with safer branching, merging, and release workflows.',
     verifyUrl: 'https://www.datacamp.com/completed/statement-of-accomplishment/track/847347fb18ac3e482cdbe67ee9203b27eb17bead',
     earnedLabel: 'May 4, 2025',
-    earnedSort: 202505,
+    earnedSort: 20250504,
   },
   {
     src: '/data_analysis_fundamentals_udacity.png',
@@ -254,7 +266,7 @@ const rawCerts =
     impact: 'Established a strong foundation in metrics and analytical thinking for business reporting.',
     verifyUrl: 'https://www.udacity.com/certificate/e/728f882c-49e6-11ef-b212-17199ed96ea3',
     earnedLabel: 'August 24, 2024',
-    earnedSort: 202408,
+    earnedSort: 20240824,
   },
 {
   src: '/introduction_to_responsible_ai_udacity.png',
@@ -264,7 +276,7 @@ const rawCerts =
   impact: 'Developed strong understanding of ethical AI design, bias mitigation, and responsible decision-making across the AI lifecycle.',
   verifyUrl: 'https://www.udacity.com/certificate/e/4f087c58-7564-11ee-b3a2-fb74bc70fb42',
   earnedLabel: 'December 12, 2023',
-  earnedSort: 202312,
+  earnedSort: 20231212,
 },
 
 
@@ -294,7 +306,7 @@ const rawCerts =
     impact: 'Mastered the Python data stack to transform complex datasets into interactive visual narratives, incorporating data ethics and Generative AI to enhance analytical depth.',
     verifyUrl: 'https://www.coursera.org/account/accomplishments/verify/8CK1ST7COPNC',
     earnedLabel: 'September 2, 2025',
-    earnedSort: 202509,
+    earnedSort: 20250902,
   },
 
 
@@ -306,7 +318,7 @@ const rawCerts =
     impact: 'Established a robust programming foundation for analytics automation, utilizing Jupyter environments and industry-standard debugging practices to build repeatable, high-quality codebases.',
     verifyUrl: 'https://www.coursera.org/account/accomplishments/verify/6R9GZJ5N2B7M', // Replaced with likely Meta link or placeholder
     earnedLabel: 'August 17, 2025',
-    earnedSort: 202508,
+    earnedSort: 20250817,
   },
 {
     src: '/technical_support_fundamentals.png',
@@ -316,7 +328,7 @@ const rawCerts =
     impact: 'Established a comprehensive technical foundation in systems software and hardware management, enabling a holistic approach to troubleshooting and documenting complex IT environments.',
     verifyUrl: 'https://www.coursera.org/account/accomplishments/verify/WLLMBRDTE1JX',
     earnedLabel: 'October 21, 2024',
-    earnedSort: 202410,
+    earnedSort: 20241021,
   },
   {
     src: '/work_smarter_not_harder_time_management.png',
@@ -326,7 +338,7 @@ const rawCerts =
     impact: 'Mastered techniques for efficient resource management and goal setting, applying structured planning and communication strategies to enhance personal and professional output.',
     verifyUrl: 'https://www.coursera.org/account/accomplishments/verify/GF4VE1B9D9U3',
     earnedLabel: 'September 9, 2024',
-    earnedSort: 202409,
+    earnedSort: 20240909,
   },
 
  {
@@ -337,7 +349,7 @@ const rawCerts =
     impact: 'Developed a 91.75% grade proficiency in cleaning complex datasets and creating reproducible data reports using RMarkdown.',
     verifyUrl: 'https://www.coursera.org/account/accomplishments/verify/LYEJDLSL2793',
     earnedLabel: 'January 4, 2026',
-    earnedSort: 202601,
+    earnedSort: 20260104,
 },
 {
     src: '/foundations_data_data_everywhere.jpg.png',
@@ -347,7 +359,7 @@ const rawCerts =
     impact: 'Mastered the ability to define business problems, utilize SQL for data exploration, and apply data ethics to ensure integrity throughout the analysis process.',
     verifyUrl: 'https://www.coursera.org/account/accomplishments/verify/S49QYD4HRWOT',
     earnedLabel: 'October 4, 2025',
-    earnedSort: 202510,
+    earnedSort: 20251022,
 },
    {
     src: '/prepare_data_for_exploration.png',
@@ -357,7 +369,7 @@ const rawCerts =
     impact: 'Improved my process for preparing clean, reliable datasets before analysis.',
     verifyUrl: 'https://www.coursera.org/account/accomplishments/verify/48X1VNN8CYS7',
     earnedLabel: 'Nov 8, 2025',
-    earnedSort: 202511,
+    earnedSort: 20251108,
   },
   {
     src: '/process_data_from_dirty_to_clean.png',
@@ -368,7 +380,7 @@ const rawCerts =
 
     verifyUrl: 'https://www.coursera.org/account/accomplishments/verify/G17RDUGJ6TF1',
     earnedLabel: 'Nov 14, 2025',
-    earnedSort: 202511,
+    earnedSort: 20251114,
   },
 
 
@@ -380,7 +392,7 @@ const rawCerts =
   impact: 'Built strong skills in creating interactive dashboards, transforming data, and delivering insightful visual reports using Power BI.',
   verifyUrl: 'https://www.datacamp.com/completed/statement-of-accomplishment/course/e5f2a5455223ccdae85abf3243c8a88371b987ad',
   earnedLabel: 'Mar 05, 2026',
-  earnedSort: 202603,
+  earnedSort: 20260305,
 },
 {
     src: '/introduction_to_backend_development_meta.png',
@@ -390,7 +402,7 @@ const rawCerts =
     impact: 'Gained technical proficiency in building and styling responsive web applications using HTML5 and CSS3, providing a deep understanding of back-end data structures and front-end user interfaces.',
     verifyUrl: 'https://www.coursera.org/account/accomplishments/verify/SEP9ER2T0PYV',
     earnedLabel: 'January 29, 2025',
-    earnedSort: 202501,
+    earnedSort: 20250129,
   },
 
 ];

@@ -6,7 +6,30 @@ import { publicUrl } from '../utils/publicUrl';
 
 const rawCerts = 
 
-[
+[{
+  src: '/ai_literacy_ibm.png',
+  alt: 'AI Literacy Certificate',
+  issuer: 'IBM SkillsBuild',
+  focus: 'Learned the fundamentals of artificial intelligence, including core AI concepts, machine learning basics, generative AI, ethical considerations, responsible AI practices, and the impact of AI across industries and everyday life.',
+  impact: 'Developed a strong understanding of AI technologies and their practical applications, enhancing the ability to work with AI-driven tools, evaluate AI solutions responsibly, and build a foundation for further learning in artificial intelligence and data-driven innovation.',
+
+  earnedLabel: 'July 01, 2026',
+  earnedSort: 20260701,
+
+  verifyUrl: 'https://www.credly.com/badges/218ac760-188f-4d4d-ab2e-8a767fe603c0/public_url'
+},
+
+  {
+  src: '/data_literacy_ibm.png',
+  alt: 'Data Literacy Certificate',
+  issuer: 'IBM SkillsBuild',
+  focus: 'Learned the fundamentals of data literacy, including understanding data concepts, interpreting data visualizations, evaluating data sources, recognizing data-driven insights, and applying critical thinking to data-based decision-making.',
+  impact: 'Developed the ability to read, analyze, and communicate data effectively, improving data-informed decision-making skills and building a strong foundation for working with data in business, technology, and analytics environments.',
+
+  earnedLabel: 'July 03, 2026',
+  earnedSort: 20260703,
+  verifyUrl: 'https://www.credly.com/badges/218ac760-188f-4d4d-ab2e-8a767fe603c0/public_url'
+},
   {
   src: '/excel_basics_for_data_analysis.png',
   alt: 'Excel Basics for Data Analysis Certificate',
@@ -17,7 +40,7 @@ const rawCerts =
   earnedLabel: 'June 20, 2026',
   earnedSort: 20260620,
 
-  credentialURL: 'https://www.coursera.org/account/accomplishments/verify/8CF7YINYKS8L'
+  verifyUrl: 'https://www.coursera.org/account/accomplishments/verify/8CF7YINYKS8L'
 },
 {
   src: '/ibm_introduction_to_data_analytics.png',
@@ -25,7 +48,7 @@ const rawCerts =
   issuer: 'IBM & Coursera',
   focus: 'Learned the fundamentals of data analytics, including understanding the data analytics process, key industry roles, and different types of data structures, formats, and sources.',
   impact: 'Gained practical knowledge of collecting, wrangling, mining, and visualizing data, along with exposure to tools and concepts such as data visualization, statistical analysis, Apache Hadoop, and data management, strengthening readiness for entry-level data analytics roles.',
-
+  verifyUrl: 'https://www.coursera.org/account/accomplishments/verify/U2EICF2Y7KA6',
   earnedLabel: 'June 12, 2026',
   earnedSort: 20260612
 },

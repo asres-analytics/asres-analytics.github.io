@@ -6,7 +6,42 @@ import { publicUrl } from '../utils/publicUrl';
 
 const rawCerts = 
 
-[{
+[
+  {
+    src: '/google_analyze_data_to_answer_questions.png.png',
+    alt: 'Analyze Data to Answer Questions Certificate',
+    issuer: 'Google Career Certificates (Coursera)',
+
+    focus:
+      'Learned how to organize, clean, analyze, and interpret data to answer business questions. Developed practical skills in spreadsheet analysis, SQL querying, data validation, and analytical thinking for data-driven decision-making.',
+
+    impact:
+      'Strengthened the ability to transform raw data into meaningful insights, identify trends and patterns, and communicate findings effectively to support business and operational decisions.',
+
+    earnedLabel: 'July 11, 2026',
+    earnedSort: 20260711,
+
+    verifyUrl: 'https://coursera.org/verify/7PR6VMOZ5F0'
+  },
+
+  {
+    src: '/google_introduction_to_data_analysis_using_python.png.png',
+    alt: 'Introduction to Data Analysis Using Python Certificate',
+    issuer: 'Google Career Certificates (Coursera)',
+
+    focus:
+      'Learned foundational data analysis techniques using Python, including data loading, cleaning, transformation, visualization, and exploratory data analysis with industry-standard libraries and tools.',
+
+    impact:
+      'Built practical Python data analysis skills for working with datasets, generating actionable insights, automating analytical tasks, and supporting data-driven problem-solving in real-world scenarios.',
+
+    earnedLabel: 'July 12, 2026',
+    earnedSort: 20260712,
+
+    verifyUrl: 'https://coursera.org/verify/00T7TTMTP0'
+  },
+  
+  {
   src: '/ai_literacy_ibm.png',
   alt: 'AI Literacy Certificate',
   issuer: 'IBM SkillsBuild',

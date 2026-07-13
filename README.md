@@ -64,13 +64,12 @@ This project demonstrates my ability to take a problem **from data acquisition t
 
 ---
 
-## Professional Links
+## 🌍 Connect With Me
 
-🌐 **Website:** https://ethiocodingroom.github.io  
-💻 **GitHub:** https://github.com/ethioCodingRoom  
-🔗 **LinkedIn:** https://www.linkedin.com/in/ethiocodingroom/
+- [🌐 **Website:**](https://asres-analytics.github.io)
+- [💼 **LinkedIn:**](https://www.linkedin.com/in/asres-analytics)
+- [📺 **YouTube:**](https://www.youtube.com/@ethioanalyticshub)
 
-📍 Open to **freelance, contract, and full‑time roles**
+## 📍 Open to Opportunities
 
----
-
+**Freelance • Contract • Full-Time Roles**

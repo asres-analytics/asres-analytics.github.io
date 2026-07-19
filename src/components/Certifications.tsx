@@ -8,6 +8,25 @@ const rawCerts =
 
 [
   {
+  src: '/bootdev_certificate.png',
+  alt: 'Learn Power BI Certificate',
+
+  issuer: 'Boot.dev',
+
+  focus:
+    'Completed hands-on training in Microsoft Power BI, covering data visualization principles, DAX query language, Power Query ETL, relational data modeling, dashboard UX/UI design, data storytelling, report automation, and business intelligence reporting.',
+
+  impact:
+    'Strengthened the ability to transform raw data into actionable insights, build interactive dashboards, model business data efficiently, and create data-driven reporting solutions for decision-making.',
+
+  earnedLabel: 'July 19, 2026',
+  earnedSort: 20260719,
+
+  verifyUrl: 'https://www.boot.dev/certificates/c6628c10-7890-4640-9710-47f58134d28e'
+},
+
+
+  {
     src: '/google_analyze_data_to_answer_questions.png.png',
     alt: 'Analyze Data to Answer Questions Certificate',
     issuer: 'Google Career Certificates (Coursera)',

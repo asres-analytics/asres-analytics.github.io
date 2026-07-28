@@ -7,6 +7,25 @@ import { publicUrl } from '../utils/publicUrl';
 const rawCerts = 
 
 [
+  
+  
+  {
+  src: '/preparing_data_for_analysis_microsoft_excel_certificate.png',
+  alt: 'Preparing Data for Analysis with Microsoft Excel Certificate',
+
+  issuer: 'Microsoft',
+
+  focus:
+    'Completed Microsoft-authorized training on preparing data for analysis using Microsoft Excel, covering data cleaning, data management, Excel formulas, spreadsheet organization, data presentation techniques, timelines, and foundational Power BI concepts.',
+
+  impact:
+    'Strengthened the ability to organize, clean, transform, and analyze data efficiently in Excel, enabling more accurate reporting, data-driven decision-making, and business intelligence workflows.',
+
+  earnedLabel: 'July 26, 2026',
+  earnedSort: 20260726,
+
+  verifyUrl: 'https://www.coursera.org/account/accomplishments/verify/IOZ9SAN0R7DY'
+},
   {
   src: '/bootdev_certificate.png',
   alt: 'Learn Power BI Certificate',

@@ -1,75 +1,33 @@
 # Asres Gamu Yelia
-**Data Analyst | Python Developer | Analytics & Automation**
 
-![Python](https://img.shields.io/badge/Python-Analytics%20%26%20Automation-blue)
-![SQL](https://img.shields.io/badge/SQL-Data%20Querying-success)
-![Power BI](https://img.shields.io/badge/Power%20BI-Business%20Intelligence-yellow)
-![Tableau](https://img.shields.io/badge/Tableau-Data%20Visualization-orange)
-![Status](https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen)
+Data Analyst | Business Intelligence | Python & SQL
 
-I help businesses transform raw data into **clear, actionable insights** through analytics, automation, and visualization.  
-My focus is on **practical, production‑ready solutions** that support confident business decision‑making.
-
----
+I help businesses make better decisions with clean data, dashboards, and actionable insights.
 
 ## What I Do
-
-- Build **data pipelines, web scrapers, and automated reporting workflows**
-- Analyze structured and unstructured datasets to identify trends and insights
-- Design **dashboards and visual analytics** for business stakeholders
-- Apply **Python and SQL** to solve real‑world operational and analytical problems
-
----
+- Analyze data to identify trends and business opportunities
+- Build Power BI dashboards and KPI reports
+- Use Python and SQL for cleaning, analysis, and automation
+- Communicate findings clearly for technical and non-technical audiences
 
 ## Core Skills
-
-**Programming & Querying**
-- Python, SQL, JavaScript
-
-**Analytics & Methods**
-- Data Analysis
-- Exploratory Data Analysis (EDA)
-- Business & Market Analysis
-
-**Visualization & BI**
+- Python
+- SQL
 - Power BI
 - Tableau
 - Excel
+- Data Visualization
+- ETL
 - Dashboard Design
 
-**Automation & Engineering**
-- Web Scraping
-- API Integration
-- ETL Pipelines
-- Data Modeling & Database Design
+## Featured Work
+- [Power BI Global Superstore Dashboard](https://github.com/asres-analytics/powerbi-superstore-sales-dashboard)
+- [Google Data Analytics Cyclistic Capstone](https://github.com/asres-analytics/google-data-analytics-capstone-cyclistic)
+- [CRM Power BI Dashboard](https://github.com/asres-analytics/crm-powerbi-dashboard)
 
----
+## Contact
+- [GitHub](https://github.com/asres-analytics)
+- [LinkedIn](https://www.linkedin.com/in/asres-analytics)
+- [YouTube](https://www.youtube.com/@ethioanalyticshub)
 
-## Featured Project
-
-### Real Estate Price Scraper
-- Automated collection of real estate listings
-- Structured datasets for pricing and market trend analysis
-- Production‑ready Python workflow designed for reuse and scalability
-
-This project demonstrates my ability to take a problem **from data acquisition to insight delivery**.
-
----
-
-## Certifications & Professional Proof
-
-- Verified certifications in **Data Analysis, Python, SQL, and Cybersecurity Awareness**
-- Tableau Public dashboards showcasing applied visualization skills
-- Multiple analytics and automation projects demonstrating real‑world experience
-
----
-
-## 🌍 Connect With Me
-
-- [🌐 **Website:**](https://asres-analytics.github.io)
-- [💼 **LinkedIn:**](https://www.linkedin.com/in/asres-analytics)
-- [📺 **YouTube:**](https://www.youtube.com/@ethioanalyticshub)
-
-## 📍 Open to Opportunities
-
-**Freelance • Contract • Full-Time Roles**
+Open to freelance, contract, and full-time opportunities.
